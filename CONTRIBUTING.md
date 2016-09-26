@@ -1,4 +1,4 @@
-# [Eloquent Store](https://eloquentstore.com)
+# Eloquent Store
 
 [Eloquent Store](https://eloquentstore.com) aims to be completely transparent with our users, as such, our issue tracker and
 feature roadmap is publicly available in this repository.
